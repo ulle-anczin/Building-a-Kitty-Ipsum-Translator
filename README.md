@@ -62,3 +62,5 @@ Proprietary - All rights reserved.
 # PR Merge: 2025-10-15 - docs/merge-1352
 
 # PR Merge: 2025-10-15 - enhancement/merge-8411
+
+# PR Merge: 2025-10-15 - refactor/merge-1798
